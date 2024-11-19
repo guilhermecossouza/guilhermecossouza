@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>Olá, eu sou Guilherme Costa Programador 👋</h1>
-  <p><strong>Sou desenvolvedor Vb.NET e estou estudando para virar desenvolvedor Full Stack e entusiasta de tecnologia.</strong></p>
+  <h1>👋 Olá! Eu sou Guilherme Costa de Souza. 👋</h1>  
+  <p>💻 Sou programador com experiência em Python e VB.NET, apaixonado por resolver problemas e automatizar processos com código.</p>
+  <p>🚀 Atualmente, estou estudando TypeScript e React para expandir minhas habilidades no desenvolvimento front-end e trabalhar com aplicações modernas e dinâmicas.</p>
+  <p>🌱 Estou sempre buscando aprender mais e acompanhar as melhores práticas do setor. Gosto de explorar novas tecnologias e otimizar meus projetos com boas práticas e eficiência.</p>
+  <p>📫 Quer conversar? Fique à vontade para me contatar por aqui ou conectar-se comigo em outras redes!</p>
 </div>
 
 <div>
