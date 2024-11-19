@@ -1,5 +1,7 @@
 <div align="center">
   <h1>👋 Olá! Eu sou Guilherme Costa de Souza. 👋</h1>  
+</div>
+<div>
   <p>💻 Sou programador com experiência em Python e VB.NET, apaixonado por resolver problemas e automatizar processos com código.</p>
   <p>🚀 Atualmente, estou estudando TypeScript e React para expandir minhas habilidades no desenvolvimento front-end e trabalhar com aplicações modernas e dinâmicas.</p>
   <p>🌱 Estou sempre buscando aprender mais e acompanhar as melhores práticas do setor. Gosto de explorar novas tecnologias e otimizar meus projetos com boas práticas e eficiência.</p>
