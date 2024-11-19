@@ -3,16 +3,13 @@
   <p>💻 Sou programador com experiência em Python e VB.NET, apaixonado por resolver problemas e automatizar processos com código.</p>
   <p>🚀 Atualmente, estou estudando TypeScript e React para expandir minhas habilidades no desenvolvimento front-end e trabalhar com aplicações modernas e dinâmicas.</p>
   <p>🌱 Estou sempre buscando aprender mais e acompanhar as melhores práticas do setor. Gosto de explorar novas tecnologias e otimizar meus projetos com boas práticas e eficiência.</p>
-  <p>📫 Quer conversar? Fique à vontade para me contatar por aqui ou conectar-se comigo em outras redes!</p>
 </div>
-
 <div>
   <h2>Sobre Mim</h2>
   <p>
     Sou um desenvolvedor apaixonado por programação e tecnologia. Com experiência em desenvolvimento de software, tanto no front-end quanto no back-end, estou sempre em busca de novos desafios e oportunidades para crescer e aprender.
   </p>
 </div>
-
 <div style="display: inline_block">
   <h2>🛠️ Tecnologias e Ferramentas</h2>
   <img align="center" alt="Guilherme-serverless" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg">
